@@ -1,0 +1,5 @@
+# node config codegen
+.env
+
+# Node
+/node_modules
